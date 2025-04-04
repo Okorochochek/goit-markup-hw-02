@@ -29,7 +29,7 @@ a{
 }
 
 .footer-logo .logo-part{ 
-    color: #f4fdf4;
+    color: #f4f4fd;
 } 
 
 .nav-link{
@@ -108,19 +108,23 @@ a{
 }
 
 .page-team{
-    background: #f4fdf4;
+    background-color: #f4fdf4;
+}
+
+.team-list-item{
+    background-color: #FFFFFF
 }
 
 .headline-two{
 font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize
 }
-
 .headline-team-name{
         text-align: center;
 }
